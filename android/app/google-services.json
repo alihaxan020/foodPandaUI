@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009469478950",
+    "project_id": "inifinitybitstask",
+    "storage_bucket": "inifinitybitstask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009469478950:android:81d9e5e98a14fd282deee7",
+        "android_client_info": {
+          "package_name": "com.taskone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009469478950-muebqjd3umug2vh7cvuaj7oo3qott4me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAHq4ukbR0HVPmqo0-9K_ARWZevoMrMy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009469478950-muebqjd3umug2vh7cvuaj7oo3qott4me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
